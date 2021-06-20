@@ -4,5 +4,5 @@
 
 ## Screenshots
 
-# Home page
+Home page
 ![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/homepage.png?raw=true)
