@@ -14,4 +14,4 @@
 ![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/Edit%20Log.png?raw=true)
 
 ## Add a technician
-!.[](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/Add%20Technician.png?raw=true)
+![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/Add%20Technician.png?raw=true)
