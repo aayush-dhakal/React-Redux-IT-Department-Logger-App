@@ -5,7 +5,7 @@
 # Screenshots
 
 ## Home page
-![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/homepage.png?raw=true)
+![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/Home%20Page.png?raw=true)
 
 ## Add a log
 ![](https://github.com/aayush-dhakal/React-Redux-IT-Department-Logger-App/blob/master/screenshots/Add%20Log.png?raw=true)
